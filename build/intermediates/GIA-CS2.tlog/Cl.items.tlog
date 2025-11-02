@@ -1,0 +1,17 @@
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_demo.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_demo.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_draw.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_draw.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_impl_dx11.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_impl_dx11.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_impl_win32.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_impl_win32.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_tables.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_tables.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\imgui\imgui_widgets.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\imgui_widgets.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\minhook\buffer.c;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\buffer.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\minhook\hde\hde32.c;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\hde32.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\minhook\hde\hde64.c;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\hde64.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\minhook\hook.c;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\hook.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\external\minhook\trampoline.c;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\trampoline.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\src\core\hooks.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\hooks.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\src\core\interfaces.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\interfaces.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\src\core\menu.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\menu.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\src\dll_main.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\dll_main.obj
+E:\VS Projects\[imgui projects]\GIA-CS2\src\sdk\memory_utils.cpp;E:\VS Projects\[imgui projects]\GIA-CS2\build\intermediates\memory_utils.obj
